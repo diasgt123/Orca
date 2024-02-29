@@ -6,5 +6,5 @@ openai
 pydub
 python-dotenv
 requests
-telegram==13.13
+telegram
 telebot
