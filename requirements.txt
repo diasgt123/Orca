@@ -1,0 +1,10 @@
+google-cloud-texttospeech
+google-cloud-translate
+langchain
+langchain-openai
+openai
+pydub
+python-dotenv
+requests
+telegram==13.13
+telebot
