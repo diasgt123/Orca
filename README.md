@@ -9,6 +9,7 @@ Understand your needs: Orca analyzes your descriptions and questions to understa
 Find information about devices: Orca uses Google Search and Shopping APIs to retrieve details like price, platform, and links to purchase the devices.
 Generate audio responses: Orca can convert its text responses into audio messages for a more engaging experience.
 Handle voice messages: Orca can transcribe voice messages and process the text like a regular message for your convenience.
+
 **How to use Orca:**
 
 Start a conversation: Send the "/start" command to Orca in a Telegram chat.
