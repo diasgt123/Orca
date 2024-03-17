@@ -42,6 +42,7 @@ Create a .env file in the project directory and set the following environment va
   
 Open a terminal in the project directory.  
 Run the command: python start.py  
+
 **Additional Notes**  
 
 This code serves as a demonstration and should be adapted for production use.  
